@@ -13,6 +13,7 @@ https://blog.csdn.net/missing2011/article/details/81474857
 
 ## mysql5.7.28 INSTALL版
 
+https://www.cnblogs.com/qq-965324258/p/11614586.html
 
 # 数据库相关语法
 
