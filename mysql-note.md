@@ -1,4 +1,6 @@
 # 启动数据库
+https://blog.csdn.net/missing2011/article/details/81474857
+
 启动mysql数据库：在出来的DOS命令窗口中输入 net start mysql
 
 关闭数据库：net stop mysql
